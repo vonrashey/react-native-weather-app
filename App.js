@@ -10,7 +10,7 @@ import WeatherDetails from './components/WeatherDetails'
 import { AppLoading } from 'expo'
 
 
-const WEATHER_API_KEY ='ddcb68b51e65dc098becc29be9333bce'
+const WEATHER_API_KEY =''
 const BASE_WEATHER_URL='https://api.openweathermap.org/data/2.5/weather?'
 
 
